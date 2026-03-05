@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Plagiarism Detection System</title>
+<link rel="stylesheet"
+href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+<h1>Plagiarism Keyword Detection System</h1>
+
+<form method="POST" enctype="multipart/form-data">
+
+<label>Upload Document 1</label>
+<input type="file" name="doc1" required><br><br>
+
+<label>Upload Document 2</label>
+<input type="file" name="doc2" required><br><br>
+
+<label>Upload Document 3</label>
+<input type="file" name="doc3" required><br><br>
+
+<label>Upload Document 4</label>
+<input type="file" name="doc4" required><br><br>
+
+<button type="submit">
+Check Plagiarism
+</button>
+
+</form>
+
+{% if report %}
+<h2>Similarity Report</h2>
+{{ report|safe }}
+{% endif %}
+
+</body>
+</html>

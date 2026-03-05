@@ -1,0 +1,39 @@
+Cybersecurity is the practice of protecting systems, networks, and data from digital attacks.
+As technology becomes more pervasive, cyber threats have grown in both volume and sophistication.
+Malware, ransomware, phishing, and social engineering are common attack methods.
+Organizations must implement multiple layers of security to protect their assets.
+Firewalls act as a barrier between trusted and untrusted networks, filtering traffic based on rules.
+Intrusion detection and prevention systems (IDS/IPS) monitor networks for suspicious activity.
+Antivirus software scans and removes malicious programs from endpoints.
+Strong password policies and multi-factor authentication reduce the risk of unauthorized access.
+Encryption protects sensitive data both at rest and during transmission.
+Security awareness training educates employees about threats like phishing emails.
+Network segmentation limits the spread of attacks by isolating critical systems.
+Regular software updates and patch management fix vulnerabilities before attackers exploit them.
+Zero-trust architecture assumes no user or device is inherently trustworthy.
+Cloud security involves protecting data and applications hosted on cloud platforms.
+Identity and access management (IAM) ensures only authorized users can access resources.
+Incident response plans prepare organizations to react quickly to security breaches.
+Cybersecurity frameworks such as NIST and ISO 27001 provide guidelines for best practices.
+Penetration testing simulates attacks to uncover weaknesses in systems.
+Vulnerability assessments identify and prioritize security gaps for remediation.
+Secure coding practices prevent software vulnerabilities from being introduced during development.
+Public key infrastructure (PKI) enables secure communications through digital certificates.
+Denial-of-service (DoS) attacks overload servers to disrupt availability.
+Advanced persistent threats (APT) are long-term targeted attacks often carried out by sophisticated adversaries.
+Monitoring logs and network traffic can detect unusual patterns indicative of attacks.
+Threat intelligence gathers information about emerging threats to improve defenses.
+Cybersecurity is critical for protecting personal information, financial data, and national infrastructure.
+IoT and connected devices create new attack surfaces that must be secured.
+Artificial intelligence and machine learning are increasingly used to detect anomalies and predict threats.
+Compliance regulations like GDPR, HIPAA, and PCI DSS mandate protection of sensitive data.
+Secure backups ensure that data can be restored after ransomware or accidental deletion.
+Endpoint detection and response (EDR) provides real-time monitoring and threat mitigation on devices.
+Security operations centers (SOC) coordinate monitoring, detection, and response efforts.
+Mobile device management (MDM) secures smartphones and tablets used in organizations.
+Cybersecurity policies set expectations for employee behavior and system usage.
+Risk assessments quantify potential impacts and guide mitigation strategies.
+Cyber hygiene refers to routine practices that maintain system security.
+Business continuity planning ensures critical operations continue during incidents.
+Emerging technologies like blockchain offer new possibilities for secure transactions.
+As cyber threats evolve, organizations must continuously adapt and improve their defenses.

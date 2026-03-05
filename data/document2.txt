@@ -1,0 +1,13 @@
+Cloud computing has revolutionized the way organizations manage IT resources. 
+It provides on-demand access to computing power, storage, and applications over the internet. 
+Organizations no longer need to invest heavily in physical infrastructure. 
+Cloud services offer scalability, reliability, and cost-efficiency. 
+There are several types of cloud computing models including public, private, and hybrid clouds. 
+Virtualization plays a key role in cloud computing. 
+It allows multiple virtual machines to run on a single physical server. 
+This improves hardware utilization and provides isolation between applications. 
+Security is a major concern in cloud computing. 
+Data breaches, account hijacking, and insider threats are common risks. 
+Machine learning is a subset of artificial intelligence that focuses on developing algorithms that can learn from data. 
+Instead of being explicitly programmed, machine learning models improve their performance as they are exposed to more data. 
+There are three main types of machine learning: supervised, unsupervised, and reinforcement learning. 
